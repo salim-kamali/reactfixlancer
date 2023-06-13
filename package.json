@@ -1,8 +1,8 @@
 {
   "name": "fixlancer",
-  "homepage": "https://salim-kamali.github.io/reactfixlancer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://salim-kamali.github.io/reactfixlancer",
   "proxy": "http://localhost:3000",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
